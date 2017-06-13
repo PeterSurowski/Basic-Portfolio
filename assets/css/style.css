@@ -121,6 +121,11 @@ li {
 	padding: 2px;
 	height: 40px;
 	width: 40px;
+	border-radius: 25px;
+}
+
+#right .fa:hover {
+	background: #4aaaa5;
 }
 
 #right p {
